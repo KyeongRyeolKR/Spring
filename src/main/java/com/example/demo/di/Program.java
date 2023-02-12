@@ -20,7 +20,7 @@ public class Program {
 
         ApplicationContext context =
                 new AnnotationConfigApplicationContext(NewlecDIConfig.class);
-//                new ClassPathXmlApplicationContext("setting.xml");
+//                new ClassPathXmlApplicationContext("DIsetting.xml");
 
 //        Exam exam = context.getBean(Exam.class);
 //        System.out.println(exam.toString());
